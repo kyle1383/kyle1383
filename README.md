@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi! I'm Kyle
 
+I'm a software engineer with extensive experience as a full stack developer. You'll find me coding in TypeScript or Python 90% of the time. Professionnally I've worked for a web agency, the DHA, and as a freelancer. 
+
+My passions lie in AI/ML, and football 🏈. Last november I began a project called yac.football to try to merge the two. This has led me into a niche of LLM implementation where I'm able to venture into fascinating projects while still leveraging my full-stack experience.  
+
+I'm always looking to add to my skillset and learn something new. These days I'm learning Rust to build native applications on my Mac. 
+
+For one day I was a professional arena football coach (the team folded in COVID)
 <!--
 **kyle1383/kyle1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
