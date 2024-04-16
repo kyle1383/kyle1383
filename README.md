@@ -8,7 +8,7 @@ I'm always looking to add to my skillset and learn something new. These days I'm
 
 🏈 For one day I was a professional arena football coach (the team folded in COVID) \
 🐈‍⬛ At one point growing up my family had 9 cats \
-🦞 I was raised in Maine, 🍁 lived in Vermont for 6 years, and ⛰️ now live in Denver. \
+🦞 I was raised in Maine, studied in Vermont 🍁, and now live in Denver ⛰️. \
 
 <!--
 **kyle1383/kyle1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
