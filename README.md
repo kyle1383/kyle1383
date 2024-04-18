@@ -2,7 +2,7 @@
 
 I'm a software engineer with extensive experience as a full stack developer. You'll find me coding in TypeScript or Python most of the time. Professionnally I've worked for a web agency, the DHA, and as a freelancer. 
 
-My passions lie in AI/ML, and football. Last november I began a project called yac.football to try to merge the two. This has led me into a niche of LLM implementation where I have been able to venture into fascinating projects while still leveraging my full-stack experience. I'm continuning these efforts and diving deeper into custom ML development. 
+My passions lie in AI/ML, and football (among other things). Last november I began a project called yac.football to merge the two. This has led me into a niche of LLM implementation where I have been able to venture into fascinating ML projects while still leveraging my full-stack experience. I'm continuning these efforts and diving deeper into custom ML development. 
 
 I'm always looking to add to my skillset and learn something new. These days I'm learning Rust to build native applications on my Mac. 
 
